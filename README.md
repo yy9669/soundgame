@@ -1,19 +1,32 @@
-# (TODO: your game's title)
+Noisy Flappy Bird
 
-Author: (TODO: your name)
+Author: Xuyang Fang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
-
+Design: Add different environments in Flappy birds, including slippery ice, blue seas, muddy ground with high resistence. Be care ! There will by noisy warning before environment changes. Different environments have different gravity and background music. There will be special sounds when the bird flies up or down or crashes.
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Click left to go up, click right to go down.
 
 Sources:
 
-(TODO: fill in information about the sources of any **artwork** or **sounds** you used in the game that you did not create yourself. Feel free to also credit yourself for things you did make.)
+Use some free online tools to convert and cut the music resources.
+https://www.aconvert.com/audio/split/
+https://audio.online-convert.com/convert-to-wav
+
+All music resouces come from  https://freepd.com
+
+Rafael Krux :
+Horror Suspense
+Happy Whistling Ukulele
+Inspiration
+Advertising
+Ukulele Song
+
+Brian Boyko :
+Ambush in Rattlesnake Gulch
 
 This game was built with [NEST](NEST.md).

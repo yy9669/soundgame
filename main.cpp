@@ -4,6 +4,7 @@
 //Starting mode:
 #include "StoryMode.hpp"
 
+#include "FlappyMode.hpp"
 //Deal with calling resource loading functions:
 #include "Load.hpp"
 
@@ -99,7 +100,7 @@ int main(int argc, char **argv) {
 	call_load_functions();
 
 	//------------ create game mode + make current --------------
-	Mode::set_current(std::make_shared< StoryMode >());
+	Mode::set_current(std::make_shared< FlappyMode >());
 
 	//------------ main loop ------------
 
