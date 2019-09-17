@@ -14,19 +14,23 @@ Click left to go up, click right to go down.
 Sources:
 
 Use some free online tools to convert and cut the music resources.
+
 https://www.aconvert.com/audio/split/
+
 https://audio.online-convert.com/convert-to-wav
 
 All music resouces come from  https://freepd.com
 
 Rafael Krux :
-Horror Suspense
-Happy Whistling Ukulele
-Inspiration
-Advertising
+
+Horror Suspense,
+Happy Whistling Ukulele,
+Inspiration,
+Advertising,
 Ukulele Song
 
 Brian Boyko :
+
 Ambush in Rattlesnake Gulch
 
 This game was built with [NEST](NEST.md).
